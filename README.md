@@ -5,17 +5,18 @@
 
 ### *About me:*
 
-Sou um cara fascinado pelo universo e amo aprender coisas novas. Apaixonado por tecnologia desde criança quando tive meu primeiro contato com games e desde lá sempre fui muito curioso em entender como as coisas funcionavam.
+Sou um cara fascinado pelo universo e amo aprender coisas novas. Sou muito curioso em entender como as coisas funcionavam. 
 
-Iniciei a graduação em bacharelado em Física pela UFS em 2017, porém, já venho a um tempo estudando tecnologias na área de programação e esse ano(2022) decidi migrar de vez para área de Dev e iniciei uma nova graduação em Ciências da Computação. 
+Apaixonado por tecnologia desde criança, quando tive meu primeiro contato com games e desde lá minha paixão pelo mundo da tecnolocia/games só aumentou. Iniciei a graduação em bacharelado em Física pela UFS em 2017, que era uma grande aspiração se forma em astrofísica. Porém, já venho a um tempo estudando tecnologias na área de programação e esse ano(2022) decidi migrar de vez para área de Dev e iniciei uma nova graduação em Ciências da Computação. 
 
 * Nome: Alvaro Marttinho 
 * Idade: 24 
 * Cidade: Aracaju/SE 🌵
+* Foco em colaborar com: PHP/Laravel
 
 Quer trocar uma ideia? Me chama no discord
 
-## Tecnologias que eu desenvolvo/estudo atualmente:
+## Tecnologias que eu estudo/desenvolvo atualmente:
 
 <div>
     <a href="https://github.com/avinho">
