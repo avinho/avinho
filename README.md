@@ -13,6 +13,8 @@ Iniciei a graduação em bacharelado em Física pela UFS em 2017, porém, já ve
 * Idade: 24 
 * Cidade: Aracaju/SE 🌵
 
+Quer trocar uma ideia? Me chama no discord ![discord](https://dcbadge.vercel.app/api/shield/320369059621502997?style=flat&theme=Default)
+
 ## Tecnologias que eu desenvolvo/estudo atualmente:
 
 <div>
