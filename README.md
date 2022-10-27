@@ -7,7 +7,7 @@
 
 Sou um cara fascinado pelo universo e amo aprender coisas novas. Sou muito curioso em entender como as coisas funcionavam. 
 
-Apaixonado por tecnologia desde criança, quando tive meu primeiro contato com games e desde lá minha paixão pelo mundo da tecnolocia/games só aumentou. Iniciei a graduação em bacharelado em Física pela UFS em 2017, que era uma grande aspiração se forma em astrofísica. Porém, já venho a um tempo estudando tecnologias na área de programação e esse ano(2022) decidi migrar de vez para área de Dev e iniciei uma nova graduação em Ciências da Computação. 
+Apaixonado por tecnologia desde criança, quando tive meu primeiro contato com games e desde lá minha paixão pelo mundo da tecnologia/games só aumentou. Iniciei a graduação em bacharelado em Física pela UFS em 2017, que era uma grande aspiração se forma em astrofísica. Porém, já venho a um tempo estudando tecnologias na área de programação e esse ano(2022) decidi migrar de vez para área de Dev e iniciei uma nova graduação em Ciências da Computação. 
 
 * Nome: Alvaro Marttinho 
 * Idade: 24 
