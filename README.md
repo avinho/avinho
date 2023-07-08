@@ -12,7 +12,6 @@ Apaixonado por tecnologia desde criança, quando tive meu primeiro contato com g
 * Nome: Alvaro Marttinho 
 * Idade: 24 
 * Cidade: Aracaju/SE 🌵
-* Foco em colaborar com:  JS / TS / Node.JS / PHP / Laravel
 
 Quer trocar uma ideia? Me chama no discord
 
